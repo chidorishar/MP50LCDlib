@@ -1,5 +1,5 @@
 # MP50LCDlib
-Library to control MP50 LCD display with Arduino microcontroller board
+The library to control MP50 LCD display from a portable cash register with Arduino microcontroller board. It allows to display custom symbols such as letters (but not all alphabet) or whatewer can be shown with six dashes per position 😎, and even do simple animations 🤩.
 
 ---
 
